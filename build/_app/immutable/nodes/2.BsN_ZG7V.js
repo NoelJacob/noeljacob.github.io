@@ -1,0 +1,1 @@
+import{a,t as o}from"../chunks/disclose-version.CoSOcwwk.js";import{n as p}from"../chunks/runtime.CCXwh_BY.js";var r=o('<h1>Welcome to SvelteKit</h1> <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>',1);function m(t){var e=r();p(2),a(t,e)}export{m as component};
